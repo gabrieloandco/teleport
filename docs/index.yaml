@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  teleport-cluster:
+  - apiVersion: v2
+    appVersion: 7.0.2
+    created: "2021-08-06T08:54:47.211908655+02:00"
+    description: Teleport is a unified access plane for your infrastructure
+    digest: 49b9dbdeaeff7c6db38e569142faf8dabc1cb105848c2b1eaa18f39b15ff8a4d
+    icon: https://goteleport.com/images/logos/logo-teleport-square.svg
+    keywords:
+    - Teleport
+    name: teleport-cluster
+    urls:
+    - https://bitburst-gmbh.github.io/teleport/teleport-cluster-7.0.2.tgz
+    version: 7.0.2
+generated: "2021-08-06T08:54:47.209273923+02:00"
